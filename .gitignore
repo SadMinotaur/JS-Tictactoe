@@ -12,7 +12,10 @@
 /build
 
 #idea
-/idea
+*.iml
+*.ipr
+*.iws
+.idea/
 
 # misc
 .DS_Store
